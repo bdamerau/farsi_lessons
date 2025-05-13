@@ -1,0 +1,353 @@
+Word,Part of Speech,Category,Farsi
+color,noun,colors,rang
+blue,adjective,colors,ābi
+red,adjective,colors,ghermez
+yellow,adjective,colors,zard
+green,adjective,colors,sabz
+orange,adjective,colors,nārangi
+white,adjective,colors,sefid
+black,adjective,colors,siā
+brown,adjective,colors,ghahvei
+gray,adjective,colors,khākestari
+pink,adjective,colors,surati
+clothes,noun,clothes,lebās
+shirt,noun,clothes,piran
+bloud,noun,clothes,boluz
+socks,noun,clothes,jurāb
+shoes,noun,clothes,kafsh
+pants,noun,clothes,shalvār
+coat,noun,clothes,kot
+jacket,noun,clothes,zhāket
+skirt,noun,clothes,dāman
+hat,noun,clothes,kalāh
+glove,noun,clothes,dastkesh
+underwear,noun,clothes,short
+pajamas,noun,clothes,pizhame
+robe,noun,clothes,rob doshām
+zipper,noun,clothes,zip
+umbrella,noun,clothes,chatr
+sweater,noun,clothes,pulover
+undershirt,noun,clothes,zirpush
+scarf,noun,clothes,shāl gordan
+night gown,noun,clothes,pirane khāb
+belt,noun,clothes,kamarband
+button,noun,clothes,dokme
+swimsuit,noun,clothes,māyo
+heavy,adjective,clothes,koloft
+light,adjective,clothes,nāzok
+narrow,adjective,clothes,bārik
+formal,adjective,clothes,rasmi
+baggy,adjective,clothes,goshād
+plain,adjective,clothes,sāde
+old,adjective,clothes,kohne
+heels,noun,clothes,pāshne
+long,adjective,clothes,boland
+short,adjective,clothes,kutāh
+wide,adjective,clothes,pahn
+casual,adjective,clothes,har ruz
+fancy,adjective,clothes,tahrdār
+tight,adjective,clothes,tang
+sleeve,noun,clothes,āstin
+weather,noun,weather,havā
+sun,noun,weather,khorshid
+star,noun,weather,setāre
+foggy,adjective,weather,mehālod
+hot,adjective,weather,dāgh
+icy,adjective,weather,yakhbandun
+sunny,adjective,weather,āftābi
+cloudy,adjective,weather,abri
+temperature,adjective,weather,daraje harārat
+restroom,noun,bathroom,dastshui
+bathtub,noun,bathroom,vān
+hot water,noun,bathroom,ābe dāgh
+faucet,noun,bathroom,shir āb
+mirror,noun,bathroom,āyne
+soap,noun,bathroom,sabon
+toothpaste,noun,bathroom,khamir dandun
+bath towel,noun,bathroom,hole hamām
+washcloth,noun,bathroom,life
+toilet paper,noun,bathroom,dastmāl toālet
+toilet,noun,bathroom,toālet
+toothbrush,noun,bathroom,mesvāk
+shower,noun,bathroom,dush
+food,noun,food,ghazā
+vegetables,noun,food,sabzijāt
+spinach,noun,food,esfenaj
+broccoli,noun,food,borokoli
+turnip,noun,food,shalgham
+parsley,noun,food,jafari
+mint,noun,food,nanā
+dill,noun,food,shevid
+tarragon,noun,food,tarkhun
+pumpkin,noun,food,kedu halvāyi
+date,noun,food,khorma
+raisin,noun,food,keshmesh
+apricot,noun,food,zardālu
+grape,noun,food,angur
+banana,noun,food,moz
+peach,noun,food,holu
+pear,noun,food,golābi
+plum,noun,food,ālu
+orange,noun,food,portoghāl
+lemon,noun,food,limu
+tangerine,noun,food,nārangi
+cantaloupe,noun,food,tālebi
+cherry,noun,food,gilās
+strawberry,noun,food,tut farangi
+raspberry,noun,food,kaneshk
+mango,noun,food,anbe
+coconut,noun,food,nargil
+mixed nuts,noun,food,ājil
+watermelon,noun,food,hendune
+pomegranate,noun,food,anār
+fig,noun,food,anjir
+persimmon,noun,food,khormālu
+ripe,adjective,food,reside
+rotten,adjective,food,puside
+potato,noun,food,sib zamini
+asparagus,noun,food,mārchube
+lettuce,noun,food,kāhu
+cabbage,noun,food,kalam
+carrot,noun,food,havij
+radish,noun,food,torobche
+tomato,noun,food,goje farangi
+pepper,noun,food,felfel
+bean,noun,food,lubiā
+celery,noun,food,karafs
+cucumber,noun,food,khiyār
+cauliflower,noun,food,gole kalam
+onion,noun,food,piyāz
+eggplant,noun,food,bādemjun
+squash,noun,food,kedu
+zucchini,noun,food,keduye sabz
+mushroom,noun,food,ghārch
+garlic,noun,food,sir
+milk,noun,food,shir
+butter,noun,food,gare
+salt,noun,food,namak
+break,noun,food,nun
+walnut,noun,food,gerdu
+jam,noun,food,morabā
+sugar,noun,food,shekar
+sugar cube,noun,food,ghand
+breakfast,noun,food,sobhāne
+cheese,noun,food,panir
+cream,noun,food,khāme
+honey,noun,food,asl
+tea,noun,food,chāi
+coffee,noun,food,ghahve
+fruit,noun,food,mive
+water,noun,food,āb
+lunch,noun,food,nāhār
+dinner,noun,food,shām
+day,noun,time,ruz
+today,noun,time,emruz
+yesterday,noun,time,diruz
+tomorrow,noun,time,fardā
+night,noun,time,shab
+morning,noun,time,sobh
+noon,noun,time,zohr
+early evening,noun,time,asr
+before,adjective,time,pish
+after,adjective,time,bad / dige
+week,noun,time,hafte
+month,noun,time,māh
+year,noun,time,sāl
+time,noun,time,vakht / sā'at
+hour,noun,time,sā'at
+second,noun,time,sānye
+minute,noun,time,daghighe
+late,adjective,time,dir
+early,adjective,time,zud
+midnight,noun,time,nime shab
+sunrise,noun,time,taloe khorshid
+sunset,noun,time,ghorub khorshid
+on time,adverb,time,sare vakht
+angry,adjective,emotions,asabāni
+happy,adjective,emotions,khoshhāl
+sad,adjective,emotions,ghamgin
+nervous,adjective,emotions,asabi
+bored,adjective,emotions,hosele sar raftam
+sick,adjective,emotions,mariz / bimār
+healthy,adjective,emotions,sālem
+worried,adjective,emotions,negarān
+tired,adjective,emotions,khaste
+hungry,adjective,emotions,gorosne
+full,adjective,emotions,sir
+thirsty,adjective,emotions,tashne
+homesick,adjective,emotions,deltang
+upset,adjective,emotions,nāhārat
+dish,noun,dining room,zarf
+plate,noun,dining room,boshghāb
+bowl,noun,dining room,kāse
+fork,noun,dining room,changāl
+knife,noun,dining room,kārd
+spoon,noun,dining room,ghāshogh
+teacup,noun,dining room,fenjun
+chair,noun,dining room,sandali
+table,noun,dining room,miz
+napkin,noun,dining room,dastmāl sofre
+placemat,noun,dining room,zir boshghābi
+salt shaker,noun,dining room,namakdun
+pepper shaker,noun,dining room,felfeldun
+sugar bowl,noun,dining room,shekardun
+teapot,noun,dining room,ghuri
+tray,noun,dining room,sini
+ceiling fan,noun,dining room,panke
+platter,noun,dining room,dis
+vase,noun,dining room,goldun
+fortunately,adverb,,khoshbakhtáne
+who,,questions,ki
+when,,questions,kei
+where,,questions,kojā
+how,,questions,chetor
+why,,questions,cherā
+what,,questions,chi / che
+to,proposition,propositions,be
+in,proposition,propositions,dar
+with,proposition,propositions,bā
+for,proposition,propositions,barāye
+from,proposition,propositions,az
+or,conjunction,,yā
+until,proposition,propositions,tā
+because,conjunction,,barāye inke / chun
+each / any,determiner,,har
+park,noun,places,pārk
+libary,noun,places,ketābkhune
+store,noun,places,forushgāh
+wedding,noun,,'arusi
+birthday party,noun,,jashne tavalod
+school,noun,places,madrese
+university,noun,places,dāneshgāh
+restaurant,noun,places,restorān
+museum,noun,places,muzeh
+head,noun,body parts,sar
+neck,noun,body parts,gardan
+abdomen,noun,body parts,shekam
+waist,noun,body parts,kamar
+hip,noun,body parts,bāsan
+leg,noun,body parts,sāghe pā
+foot,noun,body parts,pā
+hand,noun,body parts,dast
+arm,noun,body parts,bāzu
+shoulder,noun,body parts,shāne
+back,noun,body parts,post
+buttocks,noun,body parts,kafal
+chest,noun,body parts,ghafaseye sine
+breast,noun,body parts,pestān
+elbow,noun,body parts,āreni
+thigh,noun,body parts,rān
+knee,noun,body parts,zānu
+calf,noun,body parts,māhijeye sāghepā
+ankle,noun,body parts,ghuzak pā
+finger,noun,body parts,angusht
+fingernail,noun,body parts,nākhun
+wrist,noun,body parts,moch dast
+face,noun,body parts,surat
+hair,noun,body parts,mo
+forehead,noun,body parts,pishāni
+nose,noun,body parts,bini
+mouth,noun,body parts,dahan
+jaw,noun,body parts,fak
+gums,noun,body parts,lazhe
+teeth,noun,body parts,dandun
+tongue,noun,body parts,zabān
+eye,noun,body parts,cheshm
+ear,noun,body parts,gush
+cheek,noun,body parts,gune
+lip,noun,body parts,lab
+chin,noun,body parts,chāne
+eyebrow,noun,body parts,abru
+eyelid,noun,body parts,pelk
+eyelashes,noun,body parts,mozhe
+friend,noun,,dust
+name,noun,,esme
+children,noun,,bachehā
+family,noun,,khunevāde
+to do,verb,kardan,mikonam / kardam / konid
+to work,verb,kardan,kār mikonam / kardam / konid
+to make / fix,verb,kardan,dorost mikonam / kardam / konid
+to open,verb,kardan,bāz mikonam / kardam / konid
+to play,verb,kardan,bāzi mikonam / kardam / konid
+to think,verb,kardan,fekr mikonam / kardam / konid
+to clean,verb,kardan,tamiz mikonam / kardam / konid
+to lose,verb,kardan,gom mikonam / kardam / konid
+to find,verb,kardan,peydā mikonam / kardam / konid
+to mail,verb,kardan,post mikonam / kardam / konid
+to start,verb,kardan,shoru mikonam / kardam / konid
+to empty,verb,kardan,khāli mikonam / kardam / konid
+to fill up,verb,kardan,por mikonam / kardam / konid
+to turn on,verb,kardan,roshan mikonam / kardam / konid
+to turn off,verb,kardan,khāmush mikonam / kardam / konid
+to vacuum,verb,kardan,jāru mikonam / kardam / konid
+to wait,verb,kardan,sabr mikonam / kardam / konid
+to rush,verb,kardan,'ajale mikonam / kardam / konid
+to request,verb,kardan,khāhesh mikonam / kardam / konid
+to change,verb,kardan,'avaz mikonam / kardam / konid
+to put on makeup,verb,kardan,ārāyesh mikonam / kardam / konid
+to drive,verb,kardan,rānandegi mikonam / kardam / konid
+to accept,verb,kardan,ghabl mikonam / kardam / konid
+to travel,verb,kardan,safar mikonam / kardam / konid
+to be surprised,verb,kardan,tahjob mikonam / kardam / konid
+to rest,verb,kardan,esterāhat mikonam / kardam / konid
+to help,verb,kardan,komak mikonam / kardam / konid
+to use,verb,kardan,estefāde mikonam / kardam / konid
+to be,verb,,hastam / budam
+to have,verb,,dāram / dāshtam
+to like,verb,,dust dāram / dāshtam
+to come,verb,,miyām / umadam
+to be able,verb,,mitunam / tunestam
+to want,verb,,mikhām / khāstam
+to eat,verb,,mikhoram / khordam / bokhorid
+to see,verb,,mibinam / didam / bebinid
+bread,noun,food,nun
+to put / let,verb,,mizāram / gozāshtam / bezārid
+to buy,verb,,mikharam / kharidam / bekharid
+to take / win,verb,,mibaram / bordam / bebarid
+to cook,verb,,mipazam / pokhtam / bepazid
+to become,verb,,misham / shodam / beshid
+to tell / say,verb,,migam / goftam / begid
+to give,verb,,midam / dādam / bedid
+to talk,verb,zadan,harf mizanam / zadam / bezanid
+to wear,verb,,mipusham / pushidam / bepushid
+usually,adverb,,ma'amulan
+book,noun,,ketāb
+chandelier,noun,dining room,luster
+excited,adjective,emotions,zoghzade
+to be scared,verb,emotions,mitarsam / tarsidam / betarsid
+to know,verb,,midunam / midunestam
+together,adverb,,bāham
+cilantro,noun,food,geshniz
+tree,noun,,derakht
+dresser,noun,bedroom,komod
+drawer,noun,bedroom,kesho
+photo,noun,bedroom,aks
+picture frame,noun,bedroom,ghābe aks
+closet,noun,bedroom,komode lebās
+bed,noun,bedroom,takhte khāb
+pillow,noun,bedroom,bālesh
+blanket,noun,bedroom,patu
+pillowcase,noun,bedroom,ru bāleshi
+sheet,noun,bedroom,malofe
+mattress,noun,bedroom,doshak
+rug,noun,bedroom,ghāli
+carpet,noun,bedroom,muket
+night stand,noun,bedroom,pātakhti
+curtains,noun,bedroom,parde
+close,adjective,,nazdik
+memory,noun,,yād
+to use,verb,kardan,estefāde mikonam / kardam / konid
+to need,verb,,lāzam dāram / dāshtam
+cold,adjective,weather,sard
+moon,noun,weather,māh
+warm,adjective,weather,garm
+season,noun,weather,fasl
+summer,noun,weather,tābestān
+winter,noun,weather,zemestān
+spring,noun,weather,bahār
+autumn,noun,weather,pāyiz
+humid,adjective,weather,martub
+mild,adjective,weather,motadel
+to wash,verb,,mishuram / shostam / beshostid
+often,adverb,,aghlab
+fortunately,adverb,,khoshbakhtane
